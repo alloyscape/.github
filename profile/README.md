@@ -16,7 +16,6 @@
 | [tribe-sdk](https://github.com/alloyscape/tribe-sdk) | Public SDK |
 | [seat-templates](https://github.com/alloyscape/seat-templates) | Public seat cookie-cutter |
 | [pluginmesh](https://github.com/alloyscape/pluginmesh) | Public plugins |
-| [bingle-mule](https://github.com/alloyscape/bingle-mule) | Private property extract |
 
 Runtime: Hetzner · https://alloyszlholdings.com  
 HF demos: https://huggingface.co/alloyscape · Research: https://huggingface.co/SZLHOLDINGS
